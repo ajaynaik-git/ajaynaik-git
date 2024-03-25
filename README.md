@@ -9,7 +9,7 @@
 - 📫 How to reach me 
 
 **Mail ID -**
-
+**ajaynaik480@gmail.com**
 
 **LinkedIn URL-** **https://www.linkedin.com/in/ajay-a-naik-296692176**
 
