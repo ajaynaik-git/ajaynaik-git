@@ -13,7 +13,7 @@
 
 **LinkedIn URL-** **https://www.linkedin.com/in/ajay-a-naik-296692176**
 
-- ⚡ Fun fact **Even in 21st century MYSQL doesn't recognise Full Join.**
+- ⚡ Fun fact **even in 21st century MYSQL doesn't recognise Full Join.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
