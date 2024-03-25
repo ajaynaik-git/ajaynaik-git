@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaynaik-git" alt="ajaynaik-git" /></a> </p>
 
-- 📫 How to reach me **Mail ID - ajaynaik480@gmail.com**
+- 📫 How to reach me 
+**Mail ID - ajaynaik480@gmail.com**
 
-**LinkedIn URL - https://www.linkedin.com/in/ajay-a-naik-296692176**
+**LinkedIn URL- https://www.linkedin.com/in/ajay-a-naik-296692176**
 
 - ⚡ Fun fact **Even in 21st century MYSQL doesn't recognise Full Join.**
 
