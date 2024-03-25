@@ -1,5 +1,5 @@
 ![logo](https://github.com/ajaynaik-git/ajaynaik-git/blob/main/Blue%20%26%20white%20minimal%20linkedin%20profile%20cover%20image(1).png)
-<h1 align="center">Hi 👋, I'm Ajay Naik</h1>
+<h1 align="center">Hi 👋 I'm Ajay Naik</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
 <img align =“right” alt= “Coding” width= “256” src= https://aclm.in/wp-content/uploads/2021/07/dashboard_examples_aclm.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaynaik-git&label=Profile%20views&color=0e75b6&style=flat" alt="ajaynaik-git" /> </p>
@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaynaik-git" alt="ajaynaik-git" /></a> </p>
 
 - 📫 How to reach me **ajaynaik480@gmail.com**
+**https://www.linkedin.com/in/ajay-a-naik-296692176**
 
 - ⚡ Fun fact **Even in 21st century MYSQL doesn't recognise Full Join.**
 
